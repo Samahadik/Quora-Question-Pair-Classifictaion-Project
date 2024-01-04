@@ -1,2 +1,2 @@
 # Quora-Question-Pair-Classifictaion-Project
-I have done project based on Natural Language Processing.In this project i applied NLP techniques and built some models on it also i created the website using streamlit.
+I have done project based on Natural Language Processing.In this project I applied NLP techniques and built some models like logistic regresion ,decision tree ,KNN and Randomforest algorithm on it also I created the website using streamlit.
